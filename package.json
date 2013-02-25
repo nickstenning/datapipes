@@ -1,0 +1,16 @@
+{
+  "author": "Nick Stenning",
+  "name": "datapipes",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "lib/datapipes.js",
+  "dependencies": {
+    "require-dir": "0.1.x"
+  },
+  "devDependencies": {
+    "eyes": "0.1.x",
+    "coffee-script": "1.4.x"
+  }
+}
